@@ -1,0 +1,14 @@
+Kyan Lieu
+1. I wrote the main code
+2. Not using the right led code
+3. We tested if the code compiled correctly or not.
+4. Learning the different commands.
+5. Memorizing every command
+
+
+Louis Darko
+1. I helped test the program that checked classroom temperatures
+2. Getting the program to run correctly on the raspberry pi
+3. we added 5 test cases
+4. the most useful skill i learned was debugging
+5. I will improve file saving features.
